@@ -1,4 +1,4 @@
-## Welcome to Jumseo's page
+## Welcome to Junseo's page
 
 You can use the [editor on GitHub](https://github.com/juns0207/firstgit/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
