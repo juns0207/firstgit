@@ -1,37 +1,29 @@
-## 😀 to Junseo's page
+## 안녕하세요 스마트폰 가이드입니다.
 
-You can use the [editor on GitHub](https://github.com/juns0207/firstgit/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+나에게 맞는 스마트폰을 추천하는 흥미진진 챗봇 아이오입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+저희는 자신의 연령대별, 자신이 원하는 가격으로 스마트폰을 추천해드립니다.
 
-### Markdown
+현재는 삼성폰과 애플폰만 지원합니다~.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/88129735/132936409-1e9ab025-aacf-4336-8986-81bb6282d2f7.png)
+![image](https://user-images.githubusercontent.com/88129735/132936190-af960ed3-11ab-40b5-8164-732b7d3d16a4.jpg)
 
-```markdown
-Syntax highlighted code block
+## 저희 스마트폰 가이드는 스마트폰 추천은 물론이며, 스마트폰 중독 예방과 진단을 도와드리고 있습니다!
 
-# Header 1
-## Header 2
-### Header 3
+스마트폰 중독 진단을 받고 싶으신 분들은 아래 링크를 이용해 진단을 받아보시는 것을 추천 드립니다.
 
-- Bulleted
-- List
+사이트: [간단한 스마트폰 중독 테스트](https://kr.vonvon.me/quiz/406)
 
-1. Numbered
-2. List
+영상: [유튜브 영상](https://www.youtube.com/watch?v=g6SC9CrKVb8&ab_channel=%EB%B4%84%EB%82%98%EB%AC%B4%EB%B0%A9%EC%86%A1%EA%B5%AD)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+스마트폰 중독 예방에 도움이 필요한 분들은 아래 사이트를 추천해 드립니다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+사이트: [스마트폰 예방 방법 글](https://blog.naver.com/singiru0110/222608210600)
 
-### Jekyll Themes
+영상: [스마트폰 중독 예방 영상](https://www.youtube.com/watch?v=EfY3_Ajkzy0)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juns0207/firstgit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+제작자: 박준서, 이정진, 오민우, 정휘찬
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+건의사항은 bagjunseo51@gmail.com로 보내주시면 감사하겠습니다.
